@@ -1,1 +1,4 @@
-# projects
+# Projects 
+
+## Wordle Solver
+Used
