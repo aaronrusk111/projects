@@ -1,11 +1,7 @@
-```
-Connor's contributions:
-Programmed interaction with Firebase database for creating and saving updated lists
-Made UI colors work with the different themes and made text and layout look appealing
-Made fragment work with all activities and programmed button functionality
+# List Sharing Android App
 
-Aaron's contributions:
+List sharing application using Firebase. Users are given a unique token ID to join 
+other lists.
 
 
-```
 ![img](Screenshot_11.png)
