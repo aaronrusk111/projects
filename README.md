@@ -3,6 +3,9 @@
 ## Wordle Solver
 Used a GameTree algorithm to solve the NYT Wordle with an over 90% success rate
 
+## Sudoku Solver
+Sudoku solver implementing a constraint satisfaction algorithm with forward checking.
+
 ## Unity Scene
 Interactive 3D Unity scene with algorithmically generated GameObjects and manually implemented lighting effects
 
@@ -21,5 +24,6 @@ Created a collaborative list sharing app using Firebase
 - Apriori Algorithm: Used the Apriori algorithm to generate frequent itemsets and association rules
 - Collaborative Filtering: Implemented user-based collaborative filtering using K Nearest-neighbors to build a movie recommendation system
 
-## Sudoku Solver
+
+
 
